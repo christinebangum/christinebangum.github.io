@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-1. ["Mobilization and Intra-Party Power Sharing: Theory and Evidence from Norway"](https://https://github.com/christinebangum/wp/blob/main/Powersharing_WP_280824.pdf), with [Jon Fiva](https://www.jon.fiva.no/), [Giovanna Invernizzi](https://giovannainvernizzi.com), [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato) and [Janne Tukiainen](https://www.utu.fi/en/people/janne-tukiainen).
+1. ["Mobilization and Intra-Party Power Sharing: Theory and Evidence from Norway"](https://github.com/christinebangum/wp/blob/main/Powersharing_WP_280824.pdf), with [Jon Fiva](https://www.jon.fiva.no/), [Giovanna Invernizzi](https://giovannainvernizzi.com), [Carlo Prato](https://sites.google.com/site/carloprato1982/carlo-prato) and [Janne Tukiainen](https://www.utu.fi/en/people/janne-tukiainen).
 
 ## Work in progress
 
