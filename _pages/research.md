@@ -11,9 +11,9 @@ author_profile: true
 
 ## Work in progress
 
-1. "Are the Poor More Generous? Evidence from Norwegian Register Data on Lottery Wins and Charitable Giving", with [Benny Geys](https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/) and [Rune Sørensen](https://www.runesorensen.org/).
+1. "Universalism over the Life Cycle: Evidence from Register Data on Charitable Giving", with [Benny Geys](https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/) and [Rune Sørensen](https://www.runesorensen.org/).
 
-2. "Charitable Giving over the Life-cycle", with [Benny Geys](https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/) and [Rune Sørensen](https://www.runesorensen.org/).
+2. "Pro-Social Preferences and the Paradox of Voting: Evidence from Norwegian Register Data on Charitable Giving", with [Benny Geys](https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/) and [Rune Sørensen](https://www.runesorensen.org/).
 
 <!--- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
