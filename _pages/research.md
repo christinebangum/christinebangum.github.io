@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications and accepted papers
+## Publications
 
-1. ["Pro-Social Preferences and the Paradox of Voting"](https://www.sciencedirect.com/science/article/pii/S004727272500177X), with [Benny Geys](https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/) and [Rune Sørensen](https://www.runesorensen.org/). **Journal of Public Economics**, _Forthcoming_.
+1. [Bangum, C., B. Geys & R. Sørensen (2025). 'Pro-Social Preferences and the Paradox of Voting', **Journal of Public Economics**, _250_,_105479_.](https://www.sciencedirect.com/science/article/pii/S004727272500177X)
 
    _Why do people vote in large elections? Theoretical arguments to resolve this ‘paradox’ of voting often build on individuals’ pro-social motivations, which make turnout decisions less sensitive to the pivot probability. We use register data covering the entire Norwegian vote-eligible population to test the ensuing hypothesis that the turnout gap between more/less pro-social individuals increases with electorate size. Our identification strategy leverages population-size shocks from inter-municipal mobility, while we proxy pro-social motivations via individuals’ charitable donations. We show that increasing electorate size widens the turnout gap between more/less pro-social individuals, and that turnout of pro-social individuals responds less to population-size shocks._
 
