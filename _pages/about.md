@@ -12,6 +12,6 @@ I am a fourth-year PhD student in Economics at [BI Norwegian Business School](ht
 
 Starting September 2026, I will join the [Institute for Social Research](https://www.samfunnsforskning.no/english/) as a Senior Research Fellow.
 
-I earned my M.A. in Political Science from the University of Oslo in January 2022. Before academia, I spent most of my time on environmental and climate politics.
+I earned my M.A. in Political Science from the University of Oslo in 2022. Before academia, I spent most of my time on environmental and climate politics.
 
 Please feel free to get in touch! [christine.t.bangum@bi.no](mailto: christine.t.bangum@bi.no)
