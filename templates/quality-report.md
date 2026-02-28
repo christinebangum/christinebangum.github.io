@@ -1,0 +1,21 @@
+# Quality Report: Merge to Main -- [Date]
+
+## Summary
+[1-2 sentences: what was merged and why]
+
+## Files Modified
+| File | Type | Quality Score |
+|------|------|---|
+| `path/to/file` | [Code/Paper/Config] | [N]/100 |
+
+## Verification
+- [ ] Stata scripts run without errors
+- [ ] LaTeX compiles successfully
+- [ ] Tolerance checks PASS (if applicable)
+- [ ] Quality gates >= 80
+
+## Status
+MERGED
+
+## Notes
+[Any learnings or follow-ups]

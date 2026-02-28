@@ -1,2 +1,47 @@
 _site/
 
+# ==============================================================================
+# Academic Claude Code Project
+# ==============================================================================
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.synctex.gz
+*.run.xml
+*-blx.bib
+
+# Stata artifacts
+*.smcl
+*.gph
+*.dta.bak
+
+# Confidential data (NEVER commit)
+data/
+
+# Claude Code local files (not shared across machines)
+.claude/settings.local.json
+.claude/state/
+CLAUDE.local.md
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
