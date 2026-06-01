@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications and accepted papers
 
-1. ["Universalism: An 11-year Longitudinal Study"](https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.70058), with [Benny Geys](https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/) and [Rune Sørensen](https://www.runesorensen.org/). _Published in **Economica**_.
+1. [Bangum, C., B. Geys & R. Sørensen. 'Universalism: An 11-year Longitudinal Study', forthcoming in **Economica**.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.70058)
 
    _How individuals make trade-offs between socially proximate or distant groups impacts upon a wide range of social, political and economic behaviors. This article exploits Norwegian administrative register data over the 2012-2022 period to assess whether and, if so, how such `(moral) universalism' develops as individuals age and go through major life events. We show that aging is associated with increases in universalism in early adulthood and declining universalism among older individuals, but the magnitude of these changes remains very small. Similarly, major life events - such as starting higher education, first-time parenthood, positive income shocks, and retirement - are linked to at best minor and short-lived changes universalism. These results add important insights regarding the (in)stability of individuals' value orientations during adulthood, and raise new questions about the potential influence of broader social forces on universalism across cohorts._
 
