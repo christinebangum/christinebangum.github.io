@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications and accepted papers
+## Publications
 
 1. [Bangum, C., B. Geys & R. Sørensen. 'Universalism: An 11-year Longitudinal Study', forthcoming in **Economica**.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.70058)
 
