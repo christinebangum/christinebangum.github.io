@@ -25,9 +25,9 @@ author_profile: true
 
 ## Work in progress
 
-1. "Is Charitable Giving a Luxury Good?", solo-authored.
+1. "Is Charitable Giving a Luxury? Evidence from Job Displacements", solo-authored.
 
-   _Is charitable giving a luxury good? I study this question by examining how job displacement affects individual charitable giving, using administrative data on the universe of tax-deductible donations in Norway from 2004 to 2021 linked with employer-employee records. Exploiting mass layoffs as a source of plausibly exogenous variation, I find that displacement reduces donations by roughly twice the percentage decline in earnings, and that the gap widens over time as earnings recover but giving does not. The majority of the decline is driven by workers who stop donating altogether, suggesting that job loss breaks the giving habit. Disaggregating by cause reveals that the response is concentrated in donations to international aid organizations, which fall sharply on both margins. In contrast, religious giving declines in amount but shows no systematic donor attrition. The luxury good characterization thus applies to some forms of giving but not others._
+   _While income is a known predictor of charitable giving, little is known about how donations respond to negative economic shocks. This paper studies the impact of job loss on donation behavior, and how this impact varies across charitable causes. I use Norwegian population-wide administrative data linking individual donation records from tax registries to a comprehensive employer-employee dataset. Leveraging mass layoffs for identification, I find that job loss persistently reduces both the likelihood of donating and the amount given. While the income loss remains stable over the years following displacement, the reduction in giving grows, reaching roughly twice the percentage decline in income after five years. The response is driven by donors who stop giving altogether, and is concentrated in donations to international aid organizations, while giving to religious congregations remains unaffected. These findings demonstrate that labor market shocks have lasting negative spillovers on pro-social behavior._
 
 <!--- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
