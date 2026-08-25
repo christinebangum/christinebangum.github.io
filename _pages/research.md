@@ -25,9 +25,9 @@ author_profile: true
 
 ## Work in progress
 
-1. "Is Charitable Giving a Luxury? Evidence from Job Displacements", solo-authored.
+1. "Job Loss and Charitable Giving", solo-authored.
 
-   _While income is a known predictor of charitable giving, little is known about how donations respond to negative economic shocks. This paper studies the impact of job loss on donation behavior, and how this impact varies across charitable causes. I use Norwegian population-wide administrative data linking individual donation records from tax registries to a comprehensive employer-employee dataset. Leveraging mass layoffs for identification, I find that job loss persistently reduces both the likelihood of donating and the amount given. While the income loss remains stable over the years following displacement, the reduction in giving grows, reaching roughly twice the percentage decline in income after five years. The response is driven by donors who stop giving altogether, and is concentrated in donations to international aid organizations, while giving to religious congregations remains unaffected. These findings demonstrate that labor market shocks have lasting negative spillovers on pro-social behavior._
+   _This paper provides the first quasi-experimental evidence on the effect of job loss on charitable giving and on how this effect varies across charitable causes. I use Norwegian population-wide administrative data linking individual donation records from tax registries to a comprehensive employer-employee dataset. Leveraging mass layoffs for identification, I find that job loss persistently reduces both the likelihood of donating and the amount given. While the income loss remains stable over the years following displacement, the reduction in giving grows, reaching roughly twice the percentage decline in income after five years. The response is driven by donors who stop giving altogether, and is concentrated in donations to international aid organizations, while giving to religious congregations remains unaffected. These findings demonstrate that labor market shocks can have lasting negative spillovers on pro-social behavior._
 
 <!--- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
