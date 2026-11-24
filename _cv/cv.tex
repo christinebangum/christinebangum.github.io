@@ -1,0 +1,218 @@
+% LaTeX Curriculum Vitae
+% Author: Xovee Xu (https://xovee.cn)
+% Last Update: Feb 1, 2024
+% Latest Version (consider give me a star!): https://github.com/Xovee/latex-cv
+% Overleaf Link: https://www.overleaf.com/latex/templates/xovees-cv-template/rrsmqwhbygcf
+% Current Version: v0.96
+% LICENSE: MIT
+
+
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[full]{textcomp}
+\usepackage{CJKutf8}
+% \usepackage[lf]{ebgaramond}
+% \usepackage[scaled,swashQ]{garamondx}
+\usepackage[T1]{fontenc}
+
+\usepackage{enumitem}
+\usepackage[a4paper,left=.9in, right=.9in, top=1.5in, bottom=1.5in]{geometry}
+\usepackage{url}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{amsmath}
+\usepackage{eqparbox}
+
+
+\usepackage[
+    pdfnewwindow=true,
+    pdfauthor={Christine T. Bangum},
+    pdftitle={CV Christine Bangum},
+    pdfpagemode=UseThumbs,
+]{hyperref}
+\hypersetup{
+     colorlinks=true,
+     linkcolor=fg=red!80!black,
+     filecolor=black,
+     citecolor = black,      
+     urlcolor=red!80!black,
+     }
+
+\pagestyle{headings}
+\markright{\textbf{Christine T. Bangum}}
+
+\setlength\parindent{2em}
+
+\thispagestyle{empty}
+
+% define cv section
+%\newcommand{\cvsection}[1]{\section*{\rmfamily#1} \vspace{-0.15cm}\hrule \hspace{1.6em}}
+\newcommand{\cvsection}[1]{\section*{\normalfont#1} \vspace{-0.15cm}\hrule \hspace{1.6em}}
+\newcommand{\cvsubsection}[1]{\vspace{-0.5cm}\subsection*{\normalfont#1}}
+
+
+%\newcommand{\cvsubsection}[1]{\subsection*{\rmfamily#1}}
+%\newcommand{\cvsubsection}[1]{\subsection*{\rmfamily\hspace{1.6em}#1}}
+\newcommand{\HL}[1]{\textbf{\color{red}#1}}
+
+
+% begin
+\begin{document}
+
+% name
+\begin{center}
+    \Huge{
+    \rmfamily
+    \textbf{CHRISTINE T. BANGUM}}
+\end{center}
+\vspace{20pt}
+
+
+\setlength{\parskip}{1pt}
+\renewcommand{\arraystretch}{1.25}
+
+% Contact Information
+
+\noindent Department of Economics \hfill Phone: (+47) 48 35 08 09 \\
+\noindent BI Norwegian Business School \hfill E-mail: \href{mailto:christine.t.bangum@bi.no} {\texttt{christine.t.bangum@bi.no}} \\
+\noindent 0442 Oslo, Norway \hfill \href{www.christinebangum.com}{\texttt{www.christinebangum.com}}
+
+\setlength{\parskip}{3pt}
+
+% Employment
+\cvsection{EMPLOYMENT}
+
+\noindent
+\hspace{0.4em}
+\textbf{Senior Research Fellow}, Institute for Social Research, 2026 - t.d.
+
+
+% Education
+\cvsection{EDUCATION}
+
+\noindent
+\hspace{0.4em}
+\textbf{PhD, Economics}, BI Norwegian Business School, 2022 - 2026 (expected).
+
+Main supervisor: Jon H. Fiva, Co-supervisor: Benny Geys
+
+\noindent
+\hspace{0.4em}
+\textbf{M.A., Political Science}, University of Oslo, 2019 - 2022
+
+\noindent
+\hspace{0.4em}
+\textbf{B.A., Political Science}, University of Oslo, 2014 - 2017
+
+Minor in Economics
+
+\noindent
+\hspace{0.4em}
+\textbf{Visiting student}, American University of Washington, D. C., University of Oslo, 2016
+
+
+% %%%
+\cvsection{RESEARCH VISITS}
+
+\noindent
+\hspace{0.4em}
+\textbf{University of Copenhagen}, Department of Economics, 2025 
+
+\noindent
+\hspace{0.4em}
+\textbf{Columbia University}, Department of Political Science, 2024
+
+
+
+\cvsection{RESEARCH}
+\input{article.tex}
+
+\newpage
+\cvsection{TEACHING AND PROFESSIONAL ACTIVITIES}
+
+\noindent
+\hspace{0.4em}
+\textbf{Teaching assistant}, BI Norwegian Business School
+
+Macroeconomics (Undergraduate). Instructor: Gisle James Natvik. 2026.
+
+Data Analysis with Programming (Graduate). Instructor: Steffen Grønneberg. 2024, 2025.
+
+Game Theory (Graduate). Instructor: Tom-Reiel Heggedal. 2023.
+
+Environment and Sustainable Development (Graduate). Instructor: Ingrid Hjort. 2023.
+
+\noindent
+\hspace{0.4em}
+\textbf{Seminar coordinator}, BI Norwegian Business School
+
+Friday seminar series. 2024, 2026.
+
+
+\cvsection{ACADEMIC PRESENTATIONS AND TALKS}
+\cvsubsection{CONFERENCES AND INVITED SEMINARS}
+
+\noindent
+\hfill\begin{minipage}{\dimexpr\textwidth-0.4em}
+Oslo PhD Initiative in Economics, 2026; Columbia University, 2024; APSA, Philadelphia, 2024; NICEP, Nottingham, 2024; EPCS, Vienna, 2024; University of Turku, 2024; Annual Meeting of the Norwegian Association of Economists, Oslo, 2024; BI Economics Seminar, Oslo, 2023; BI Political Economy Workshop, Oslo, 2023; BI Political Dynamics Workshop, 2023, Institute for Social Research, 2021; C-REX Seminar, University of Oslo, 2021.
+\end{minipage}
+
+\vspace{1em}
+\cvsubsection{ACADEMIC TALKS}
+
+\noindent
+\hspace{0.4em}
+``Data Manipulation in R'', 2023, Institute for Social Research.
+
+\cvsection{AWARDS AND GRANTS}
+
+\noindent
+\hspace{0.4em}
+Prize for the Best PhD Paper, Annual Meeting of the Norwegian Association of Economists; 2026
+
+\noindent
+\hspace{0.4em}
+The Central Bank of Norway's Fund for Economic Research (NOK 30,000); 2025
+
+\noindent
+\hspace{0.4em}
+Fulbright Fellowship (NOK 200,000); 2024
+
+\noindent
+\hspace{0.4em}
+Dean's List, American University of Washington, D.C.; 2016
+
+\cvsection{SELECTED PROFESSIONAL EXPERIENCE}
+
+\noindent
+\hspace{0.4em}
+\textbf{Norwegian Parliament}, Group Secretary, 2022
+
+\noindent
+\hspace{0.4em}
+\textbf{Institute for Social Research}, Research Assistant for the National Election Study, 2020-2022
+
+\noindent
+\hspace{0.4em}
+\textbf{Norwegian Embassy in London}, Trainee, 2018
+
+\noindent
+\hspace{0.4em}
+\textbf{University of Oslo}, Research Assistant at the Institute for Health and Society Studies, 2016
+
+\noindent
+\hspace{0.4em}
+\textbf{Women's Foreign Policy Group, Washington, D.C.}, Intern, 2016
+
+
+\cvsection{ADDITIONAL INFORMATION}
+
+\noindent
+\hspace{0.4em}
+SOFTWARE SKILLS: Stata, R, \LaTeX, Adobe CS
+
+\vfill
+
+\section*{\hfill \normalfont \small Last updated \today}
+
+\end{document}

@@ -1,0 +1,208 @@
+% LaTeX Curriculum Vitae -- norsk versjon
+% Basert pa Xovee Xu sin mal (https://xovee.cn), MIT-lisens
+
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[full]{textcomp}
+\usepackage{CJKutf8}
+% \usepackage[lf]{ebgaramond}
+% \usepackage[scaled,swashQ]{garamondx}
+\usepackage[T1]{fontenc}
+\usepackage[norsk]{babel} % norsk dato med \today og norsk orddeling
+
+\usepackage{enumitem}
+\usepackage[a4paper,left=.9in, right=.9in, top=1.5in, bottom=1.5in]{geometry}
+\usepackage{url}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{amsmath}
+\usepackage{eqparbox}
+
+
+\usepackage[
+    pdfnewwindow=true,
+    pdfauthor={Christine T. Bangum},
+    pdftitle={CV Christine Bangum (norsk)},
+    pdfpagemode=UseThumbs,
+]{hyperref}
+\hypersetup{
+     colorlinks=true,
+     linkcolor=fg=red!80!black,
+     filecolor=black,
+     citecolor = black,
+     urlcolor=red!80!black,
+     }
+
+\pagestyle{headings}
+\markright{\textbf{Christine T. Bangum}}
+
+\setlength\parindent{2em}
+
+\thispagestyle{empty}
+
+% define cv section
+\newcommand{\cvsection}[1]{\section*{\normalfont#1} \vspace{-0.15cm}\hrule \hspace{1.6em}}
+\newcommand{\cvsubsection}[1]{\vspace{-0.5cm}\subsection*{\normalfont#1}}
+\newcommand{\HL}[1]{\textbf{\color{red}#1}}
+
+
+% begin
+\begin{document}
+
+% navn
+\begin{center}
+    \Huge{
+    \rmfamily
+    \textbf{CHRISTINE T. BANGUM}}
+\end{center}
+\vspace{20pt}
+
+
+\setlength{\parskip}{1pt}
+\renewcommand{\arraystretch}{1.25}
+
+% Kontaktinformasjon
+
+\noindent Institutt for samfunns{\o}konomi \hfill Telefon: (+47) 48 35 08 09 \\
+\noindent Handelsh{\o}yskolen BI \hfill E-post: \href{mailto:christine.t.bangum@bi.no} {\texttt{christine.t.bangum@bi.no}} \\
+\noindent 0442 Oslo \hfill \href{www.christinebangum.com}{\texttt{www.christinebangum.com}}
+
+\setlength{\parskip}{3pt}
+
+% Arbeidserfaring
+\cvsection{STILLING}
+
+\noindent
+\hspace{0.4em}
+\textbf{Forsker II}, Institutt for samfunnsforskning, fra september 2026.
+
+
+% Utdanning
+\cvsection{UTDANNING}
+
+\noindent
+\hspace{0.4em}
+\textbf{Ph.d. i samfunns{\o}konomi}, Handelsh{\o}yskolen BI, 2022--2026 (forventet).
+
+Hovedveileder: Jon H. Fiva, Biveileder: Benny Geys
+
+\noindent
+\hspace{0.4em}
+\textbf{Master i statsvitenskap}, Universitetet i Oslo, 2019--2022
+
+\noindent
+\hspace{0.4em}
+\textbf{Bachelor i statsvitenskap}, Universitetet i Oslo, 2014--2017
+
+St{\o}ttefag i samfunns{\o}konomi
+
+\noindent
+\hspace{0.4em}
+\textbf{Utvekslingsstudent}, American University, Washington, D.C., Universitetet i Oslo, 2016
+
+
+% %%%
+\cvsection{FORSKNINGSOPPHOLD}
+
+\noindent
+\hspace{0.4em}
+\textbf{Universitetet i K{\o}benhavn}, {\O}konomisk institutt, 2025
+
+\noindent
+\hspace{0.4em}
+\textbf{Columbia University}, Department of Political Science, 2024
+
+
+
+\cvsection{FORSKNING}
+\input{article norsk}
+
+\newpage
+\cvsection{UNDERVISNING OG FAGLIGE VERV}
+
+\noindent
+\hspace{0.4em}
+\textbf{Seminarleder}, Handelsh{\o}yskolen BI
+
+Makro{\o}konomi (bachelorniv{\aa}). Kursansvarlig: Gisle James Natvik. 2026.
+
+Dataanalyse med programmering (masterniv{\aa}). Kursansvarlig: Steffen Gr{\o}nneberg. 2024, 2025.
+
+Spillteori (masterniv{\aa}). Kursansvarlig: Tom-Reiel Heggedal. 2023.
+
+Milj{\o} og b{\ae}rekraftig utvikling (masterniv{\aa}). Kursansvarlig: Ingrid Hjort. 2023.
+
+\noindent
+\hspace{0.4em}
+\textbf{Seminarkoordinator}, Handelsh{\o}yskolen BI
+
+Fredagsseminarserien. 2024, 2026.
+
+
+\cvsection{PRESENTASJONER OG FOREDRAG}
+\cvsubsection{KONFERANSER OG INVITERTE SEMINARER}
+
+\noindent
+\hfill\begin{minipage}{\dimexpr\textwidth-0.4em}
+Oslo PhD Initiative in Economics, 2026; Columbia University, 2024; APSA, Philadelphia, 2024; NICEP, Nottingham, 2024; EPCS, Wien, 2024; Universitetet i Turku, 2024; Samfunns{\o}konomenes forskerm{\o}te, Oslo, 2024; BI Economics Seminar, Oslo, 2023; BI Political Economy Workshop, Oslo, 2023; BI Political Dynamics Workshop, 2023; Institutt for samfunnsforskning, 2021; C-REX-seminar, Universitetet i Oslo, 2021.
+\end{minipage}
+
+\vspace{1em}
+\cvsubsection{FAGLIGE FOREDRAG}
+
+\noindent
+\hspace{0.4em}
+``Datamanipulasjon i R'', 2023, Institutt for samfunnsforskning.
+
+\cvsection{PRISER OG STIPENDER}
+
+\noindent
+\hspace{0.4em}
+Pris for beste ph.d.-artikkel, Samfunns{\o}konomenes forskerm{\o}te; 2026
+
+\noindent
+\hspace{0.4em}
+Norges Banks fond til {\o}konomisk forskning (30 000 kroner); 2025
+
+\noindent
+\hspace{0.4em}
+Fulbright-stipend (200 000 kroner); 2024
+
+\noindent
+\hspace{0.4em}
+Dean's List, American University, Washington, D.C.; 2016
+
+\cvsection{UTVALGT ARBEIDSERFARING}
+
+\noindent
+\hspace{0.4em}
+\textbf{Stortinget}, gruppesekret{\ae}r, 2022
+
+\noindent
+\hspace{0.4em}
+\textbf{Institutt for samfunnsforskning}, vitenskapelig assistent for Stortingsvalgunders{\o}kelsen, 2020--2022
+
+\noindent
+\hspace{0.4em}
+\textbf{Den norske ambassaden i London}, praktikant, 2018
+
+\noindent
+\hspace{0.4em}
+\textbf{Universitetet i Oslo}, vitenskapelig assistent ved Institutt for helse og samfunn, 2016
+
+\noindent
+\hspace{0.4em}
+\textbf{Women's Foreign Policy Group, Washington, D.C.}, praktikant, 2016
+
+
+\cvsection{ANNEN INFORMASJON}
+
+\noindent
+\hspace{0.4em}
+PROGRAMVARE: Stata, R, \LaTeX, Adobe CS
+
+\vfill
+
+\section*{\hfill \normalfont \small Sist oppdatert \today}
+
+\end{document}
